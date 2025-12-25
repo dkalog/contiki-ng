@@ -4,7 +4,7 @@ This page shows you how to create a virtual machine image provisioned with all t
 
 ## Instructions
 
-* Install a virtualization platform such as [VirtualBox](https://www.virtualbox.org)
+* Install  [VirtualBox](https://www.virtualbox.org) as a virtualization platform, cause you can't boot ubuntu/bionic with other vagrant provider such as libvirt
 * Install Vagrant from [www.vagrantup.com/downloads](https://www.vagrantup.com/downloads.html)
 * Get the Contiki-NG repository
 ```bash
